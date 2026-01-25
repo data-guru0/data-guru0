@@ -1,139 +1,93 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=300&section=header&text=Data%20Guru&fontSize=90&fontColor=38bdf8&fontAlignY=35&animation=fadeIn&desc=Educating%20India%20in%20Data%20Science%20%26%20AI%20🇮🇳&descAlignY=55&descSize=25" width="100%"/>
+</div>
 
-<!-- Futuristic Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1000&height=80&lines=Namaste!+I'm+Data+Guru+🚀;Educating+India+in+Data+Science+%26+AI+in+Hindi+🇮🇳;Machine+Learning+Mentor+%26+MLOps+Engineer+🤖;Making+Tech+Accessible+for+Everyone+✨" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Making+Education+Free+%26+Accessible;Simplifying+Tech+in+Hindi+🇮🇳;Building+Next-Gen+AI+Pipelines&font=Fira+Code&center=true&width=600&height=50&color=38bdf8&vCenter=true&size=22&pause=1000" />
+  </a>
+</div>
 
-<!-- Cyberpunk Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00f0ff" width="100%"/>
+<div align="center">
+  <a href="https://youtube.com/@UCYJJtmZyW_zP_3hfCMp-EsQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://github.com/data-guru0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+  </a>
+</div>
 
-<br/>
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-00f0ff?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/MLOps-7000ff?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-ff00c8?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-00ff9d?style=for-the-badge&logo=openai&logoColor=black" />
-</p>
-
----
-
-## 🧠 **Who Am I?**
-
-`> I teach complex Data & AI concepts in super-simple Hindi.`
-
-I create free content in Hindi for:
-
-✔ Machine Learning  
-✔ Data Science  
-✔ Deep Learning  
-✔ Computer Vision  
-✔ NLP  
-✔ MLOps & Deployment  
-✔ Big Data & Cloud  
-
-My mission:  
-> **Make AI & ML education accessible for everyone in India 🇮🇳**
-
----
-
-## 🧩 **Fancy Terminal Intro**
-
-```txt
-data-guru0@terminal:~$ whoami
-> Data Educator | ML Engineer | Cloud & MLOps | Mentor
-
-data-guru0@terminal:~$ mission
-> Free AI education in Hindi for everyone
-
-data-guru0@terminal:~$ skills --pro
-> ML | DL | CV | NLP | MLOps | Big Data | Cloud
-```
+<div align="center">
+<table align="center" style="border: none;">
+  <tr>
+    <td align="left" width="55%">
+      <h3>👋 Hi, I'm Sudhanshu (Data Guru)</h3>
+      <p>
+        I am an <b>MLOps & AI Engineer</b> passionate about democratizing education.
+        I bridge the gap between <i>complex theory</i> and <i>practical deployment</i>.
+      </p>
+      <p>
+        🔭 <b>Currently working on:</b> MLOps Pipelines on Kubernetes<br>
+        🌱 <b>Learning:</b> Advanced GenAI Agents & RAG<br>
+        💬 <b>Ask me about:</b> Python, Docker, Jenkins, K8s<br>
+        ⚡ <b>Fun fact:</b> I teach Data Science in pure Hindi!
+      </p>
+    </td>
+    <td align="center" width="45%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-## 🚀 **What I Do (Interactive Cards)**
-
-<p align="center">
-  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" width="70"/>
-  <img src="https://skillicons.dev/icons?i=ml,pytorch,tensorflow,opencv" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,aws,gcp,azure" />
-</p>
-
----
-
-## 🛠 **Tech Arsenal**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,docker,kubernetes,fastapi,flask,mongodb,mysql,postgres,redis,java,go,linux,github,aws,gcp,azure,vscode&perline=10" />
-</p>
+<h2 align="center">🚀 Mainframe & Arsenal</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,fastapi,flask&perline=9&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,linux,grafana&perline=9&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,vscode,github,idea,md,html&perline=9&theme=dark" />
+</div>
 
 ---
 
-## 🎥 **YouTube Live Stats (Auto Updating)**
+<h2 align="center">⚡ Coding Frequency</h2>
 
-<p align="center">
- <img src="https://ytcards.demolab.com/?id=UCYJJtmZyW_zP_3hfCMp-EsQ&title=Latest+Video&lang=en&timestamp=1&background_color=%23000&title_color=%2300f0ff" width="350" />
-</p>
+<div align="center">
+  <a href="https://github.com/data-guru0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-guru0&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170" />
+  </a>
+  <a href="https://github.com/data-guru0">
+    <img src="https://github-readme-stats.vercel.app/api?username=data-guru0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8" height="170" />
+  </a>
+</div>
 
-<p align="center">
- <img src="https://img.shields.io/youtube/channel/subscribers/UCYJJtmZyW_zP_3hfCMp-EsQ?style=for-the-badge&color=ff00c8&label=Subscribers" />
- <img src="https://img.shields.io/youtube/channel/views/UCYJJtmZyW_zP_3hfCMp-EsQ?style=for-the-badge&color=00f0ff&label=Total+Views" />
-</p>
+<br />
 
----
-
-## 🛰 **GitHub Analytics**
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=data-guru0&theme=tokyonight&hide_border=true&show_icons=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=data-guru0&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-guru0&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-guru0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8" height="160" />
+</div>
 
 ---
 
-## 🐍 **Snake Contribution Graph**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🌌 **GitHub Skyline (3D City View)**
-
-> 🔗 https://skyline.github.com/data-guru0/2024
+<h2 align="center">🐍 Contribution Activity</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/data-guru0/data-guru0/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/data-guru0/data-guru0/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/data-guru0/data-guru0/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## 🌍 **Activity Map**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=data-guru0&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 **Connect With Me**
-
-<p align="center">
- <a href="https://youtube.com/@UCYJJtmZyW_zP_3hfCMp-EsQ"><img src="https://skillicons.dev/icons?i=youtube" width="45"/></a>
- <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
- <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
- <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-</p>
-
----
-
-## 👁 **Profile Views**
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=data-guru0&label=Profile%20Views&color=00f0ff&icon=6&pretty=true" />
-</p>
-
----
-
-<!-- Futuristic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00c8&height=200&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" width="100%"/>
+</div>
