@@ -1,4 +1,4 @@
-```md
+
 <!-- Futuristic Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=2000&color=00F0FF&center=true&vCenter=true&width=1000&height=80&lines=Namaste!+I'm+Data+Guru+🚀;Educating+India+in+Data+Science+%26+AI+in+Hindi+🇮🇳;Machine+Learning+Mentor+%26+MLOps+Engineer+🤖;Making+Tech+Accessible+for+Everyone+✨" />
 
@@ -137,4 +137,3 @@ data-guru0@terminal:~$ skills --pro
 
 <!-- Futuristic Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00c8&height=200&section=footer"/>
-```
