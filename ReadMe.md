@@ -1,156 +1,75 @@
-# 👋 Namaste! I'm **Data Guru** 🇮🇳  
-### *Educating India in Data Science, Machine Learning, Deep Learning & AI — in Hindi*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f172a&height=250&section=header&text=DATA%20GURU&fontSize=80&fontColor=00ff00&fontAlignY=40&animation=glitch&desc=System.out.println(%22Educating%20India%20in%20Hindi%20🇮🇳%22);&descAlignY=65&descSize=20&descColor=00ff00" width="100%"/>
+</div>
 
----
-
-## ⚡ Interactive Terminal Experience (Try it!)
-
-```
-┌───(welcome)───[ Data Guru Terminal ]
-│
-│  Hello Visitor!
-│  Loading Profile...
-│
-│  █████████████████ 100%
-│
-│  🌐 Channel: youtube.com/@data_guru0
-│  🎯 Mission: Make AI & Data Science Easy in Hindi
-│
-│  Type `help` to see commands...
-│
-│  data-guru0@github:~$
-```
-
-**Try these “commands” in your imagination:**
-
-```
-help          Show this help menu
-skills        List my skills & tools
-latest        Show my latest YouTube video
-projects      Show featured projects
-contact       My social links
-```
-
----
-
-## 🧠 About Me
-
-I'm a guide for learners — turning complex topics into **simple, Hindi first-principles explanations**:
-
-- 🧮 Data Science
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🖼️ Computer Vision
-- 💬 NLP
-- ⚙️ MLOps & Deployment
-- ☁️ Cloud & Big Data
-
-> **Mission:** Empower every learner in India 🇮🇳 with premium, free AI education.
-
----
-
-## 🎥 YouTube Channel
-
-<p align="center">
-  <a href="https://www.youtube.com/@data_guru0">
-    <img src="https://img.shields.io/youtube/channel/subscribers/data_guru0?style=social" alt="YouTube Subscribers Badge">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Data+Science+Protocol...;Loading+Modules:+ML,+AI,+MLOps...;Target:+Democratizing+Education+in+Hindi;User:+Sudhanshu+(Data+Guru);Status:+Online+and+Ready+to+Teach+🚀&font=VT323&center=true&width=600&height=50&color=00ff00&vCenter=true&size=25&pause=1000&background=000000" />
   </a>
+</div>
+
+---
+
+<h2 align="center">🕹️ Interactive Zone: Play Chess Against Me</h2>
+<p align="center">
+  <i>Click a piece to make a move! The board updates automatically. Help the community beat me!</i>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-chess.vercel.app/api/board?game=data-guru0/data-guru0&theme=neon_green" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/data-guru0/data-guru0/issues/new?body=chess%20move%20e2e4&title=Chess%3A%20Move%20e2e4">Start Game (e2-e4)</a>
+</div>
+
+---
+
+<h2 align="center">🏙️ The Code City</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=data-guru0&theme=toxin" />
+</div>
+
+---
+
+<h2 align="center">📺 YouTube Transmission Feed</h2>
+<div align="center">
   <a href="https://www.youtube.com/@data_guru0">
-    <img src="https://img.shields.io/youtube/channel/views/data_guru0?style=social" alt="YouTube Views Badge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=data-guru0&repo=data-guru0&theme=tokyonight&hide_border=true" alt="Latest Video Placeholder - Use Workflow to Replace" />
   </a>
-</p>
-
-### 🔥 Latest Video
-*(Click to watch!)*
-
-<p align="center">
+  <br/>
   <a href="https://www.youtube.com/@data_guru0">
-    <img src="https://img.youtube.com/vi/REPLACE_VIDEO_ID/maxresdefault.jpg" alt="Latest Video" width="600px" />
+    <img src="https://img.shields.io/badge/SUBSCRIBE-TO%20DATA%20GURU-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black"/>
   </a>
-</p>
-
-> ⚠️ YouTube doesn’t let GitHub auto-fetch latest thumbnails — once you send me your latest video link, I’ll replace `REPLACE_VIDEO_ID` with the actual id for a real preview!
+</div>
 
 ---
 
-## 🛠 Tools I Use (Interactive Grid)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,docker,kubernetes,fastapi,flask,aws,gcp,azure,linux,git,github,mysql,postgres,mongodb&perline=8">
-</p>
-
----
-
-## 📦 Core Skills
-
-```
-data-guru0@skills:~$ skills list --all
-✔ Python
-✔ Machine Learning
-✔ Deep Learning (TensorFlow, PyTorch)
-✔ Computer Vision (OpenCV)
-✔ NLP
-✔ MLOps (Docker, Kubernetes)
-✔ Cloud (AWS, GCP, Azure)
-✔ Databases (MySQL, PostgreSQL, MongoDB)
-✔ REST APIs (FastAPI, Flask)
-```
+<h2 align="center">🛠️ Weapons of Choice</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,fastapi,flask&perline=9&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,linux,grafana&perline=9&theme=dark" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=data-guru0&show_icons=true&theme=dark&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=data-guru0&theme=dark&hide_border=true" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-guru0&layout=compact&theme=dark&hide_border=true" height="130px"/>
-</p>
+<h2 align="center">🏆 Trophy Case</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=data-guru0&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 System Activity Log</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/data-guru0/data-guru0/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/data-guru0/data-guru0/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/data-guru0/data-guru0/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
-</p>
-
----
-
-## ✨ Featured Projects
-
-```
-data-guru0@github:~$ projects show
-1. Smart-Traffic-Vision — 🚦 AI for traffic classification
-2. Chatbot-Flask — 💬 NLP Chatbot deployment
-3. Dockerized-ML — 🐳 End-to-end MlOps setup
-4. CV-Toolkit — 📸 Vision tools library
-```
-
-*(Add real links later if you want)*
-
----
-
-## 📬 Contact & Socials
-
-<p align="center">
-  <a href="https://www.youtube.com/@data_guru0">🎥 YouTube</a>  |
-  <a href="https://linkedin.com/in/data-guru0">💼 LinkedIn</a>  |
-  <a href="https://twitter.com/data_guru0">🐦 Twitter</a>  |
-  <a href="https://instagram.com/data_guru0">📸 Instagram</a>
-</p>
-
----
-
-## 🏁 Thank You For Visiting
-
-```
-data-guru0@exit:~$ thankyou
-> Stay curious. Keep learning. 🚀
-```
-
----
-
-*(GitHub README generated by AI — powered by your vision of engaging, interactive content!)*  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer" width="100%"/>
+</div>
