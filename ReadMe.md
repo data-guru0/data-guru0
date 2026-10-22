@@ -1,191 +1,241 @@
 <div align="center">
-<img src="assets/hero.svg" alt="Sudhanshu Gusain — engineering intelligence, governing autonomy" width="100%"/>
-<br/><br/>
-<a href="https://github.com/data-guru0/data-guru0/tree/main/docs"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE_THE_SITE-68E8E1?style=for-the-badge&labelColor=0B1020&logo=githubpages&logoColor=68E8E1"/></a>
-<a href="https://www.linkedin.com/in/sudhanshu-gusain976/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=white"/></a>
-<a href="https://youtube.com/channel/UCYJJtmZyW_zP_3hfCMp-EsQ"><img src="https://img.shields.io/badge/DATA_GURU-LEARN_WITH_ME-EA4335?style=for-the-badge&labelColor=0B1020&logo=youtube&logoColor=white"/></a>
 
-<sub> `AI SYSTEMS ENGINEERING` &nbsp; • &nbsp; `AGENTIC AI` &nbsp; • &nbsp; `GOVERNANCE` &nbsp; • &nbsp; `CLOUD NATIVE` </sub>
+<img src="assets/hero.svg" width="100%" alt="Sudhanshu Gusain — AI Engineer, Udemy Instructor and Creator. I build what I teach." />
+
+<br/>
+
+<a href="https://www.udemy.com/user/sudhanshu-gusain-3/"><img src="https://img.shields.io/badge/UDEMY-EXPLORE_MY_COURSES-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=111827" alt="My Udemy courses" /></a>
+<a href="https://www.linkedin.com/in/sudhanshu-gusain976/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect on LinkedIn" /></a>
+<a href="https://www.youtube.com/channel/UCYJJtmZyW_zP_3hfCMp-EsQ"><img src="https://img.shields.io/badge/YOUTUBE-WATCH_%26_LEARN-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111827" alt="My YouTube channel" /></a>
+
+<br/><br/>
+
+<sub>✦ AI ENGINEERING &nbsp;·&nbsp; LLMOPS &nbsp;·&nbsp; AI GOVERNANCE &nbsp;·&nbsp; MLOPS &nbsp;·&nbsp; EDUCATION ✦</sub>
+
 </div>
 
 <br/>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### `01 / THE PERSON BEHIND THE SYSTEMS`
-
-# Hi, I'm Sudhanshu. 👋
-
-**I turn ambitious AI prototypes into systems that can be trusted.**
-
-AI engineer · Technical educator · Systems builder.
-
-My focus is where **agentic intelligence meets real-world engineering**: identity, authorization, policy, infrastructure, model evaluation, traceability and reliable deployment.
-
-I also teach practical AI and data science through **Data Guru**, making advanced engineering approachable through project-based Hindi-language education.
-
-**My operating principle:** *Identity before access. Policy before execution. Observability at every boundary.*
-
-</td>
-<td width="42%" valign="top">
-<img src="https://github.com/data-guru0/data-guru0/blob/main/profile.jpg?raw=true" alt="Profile photograph" width="100%"/>
-<br/>
-<sub>📍 India &nbsp; • &nbsp; 🌐 Building and teaching globally</sub>
-</td>
-</tr>
-</table>
-
----
-
-### `02 / MY ENGINEERING DNA`
-
-<table>
-<tr>
-<td width="33%" align="center"><h2>🧠 BUILD</h2><b>Intelligent Systems</b><br/><sub>Agents · RAG · LLM gateways · Model routing</sub></td>
-<td width="33%" align="center"><h2>🛡️ GOVERN</h2><b>Trusted Autonomy</b><br/><sub>Identity · Authorization · Policy · Audit</sub></td>
-<td width="33%" align="center"><h2>🚀 SHIP</h2><b>Production Infrastructure</b><br/><sub>CI/CD · GitOps · Kubernetes · Observability</sub></td>
-</tr>
-</table>
 
 <div align="center">
-<img src="assets/control-plane.svg" width="100%" alt="Animated production AI governance control plane"/>
+<img src="assets/impact.svg" alt="22K+ learners, 1.4K+ Udemy reviews and three published courses as of October 2026" width="100%" />
+<br/>
+<sub>Teaching impact from my public <a href="https://www.udemy.com/user/sudhanshu-gusain-3/">Udemy instructor profile</a> (October 2026 snapshot; figures evolve over time).</sub>
+</div>
+
+<br/>
+
+## `01 / THE HUMAN BEHIND THE CODE`
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<h2>Hey! I'm Sudhanshu 👋</h2>
+
+<p>I'm an <b>AI engineer, Udemy instructor, and technical content creator</b> from India.</p>
+
+<p>Most people know me through code, technical walkthroughs, or my courses. But what really drives me is something simple: <b>making complex engineering understandable and useful.</b></p>
+
+<p>I work at the intersection of <b>AI systems, cloud infrastructure, MLOps, and AI security</b>. I enjoy the entire journey — understanding how something works, building it, breaking it, improving it, and finally teaching it in a way that clicks.</p>
+
+<p>Through <b>Udemy</b> and <b>Data Guru</b>, I share what I'm learning and building with people who want more than just another tutorial.</p>
+
+<p><b>My belief?</b> The best way to understand technology is to build with it. The best way to master it is to explain it.</p>
+
+</td>
+<td width="30%" align="center" valign="top">
+
+<a href="https://www.udemy.com/user/sudhanshu-gusain-3/"><img src="https://img-c.udemycdn.com/user/200_H/247604118_7e15_2.jpg" width="190" alt="Sudhanshu Gusain — Udemy instructor portrait"/></a>
+
+<br/><br/>
+<sub><b>ENGINEER × EDUCATOR</b></sub>
+<br/>
+<sub>📍 India • 🌍 Teaching worldwide</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02 / THE CLASSROOM — WHERE I SHARE WHAT I BUILD`
+
+<div align="center">
+<h3>🎓 My Udemy courses</h3>
+<p>Real engineering. Practical demos. The why <i>and</i> the how.</p>
+</div>
+
+I'm a co-instructor on **three published Udemy courses**, covering the journey from production ML infrastructure to secure, observable AI agents.
+
+### 01 — AI Security Bootcamp
+
+<a href="https://www.udemy.com/course/ai-security-bootcamp-guardrailsllm-gatewaysobservability/"><img src="assets/courses/ai-security.svg" width="100%" alt="AI Security Bootcamp — Guardrails, LLM Gateways, Observability"/></a>
+
+**[AI Security Bootcamp — Guardrails, LLM Gateways, Observability ↗](https://www.udemy.com/course/ai-security-bootcamp-guardrailsllm-gatewaysobservability/)**
+
+How do you move beyond *"the model works"* to *"the system is safe to operate"*? This course explores **LLM gateways, guardrails, evaluations, observability, red teaming, and production AI agent engineering**.
+
+<sub>Co-created with the KrishAI instructor team, including Krish Naik and fellow instructors.</sub>
+
+### 02 — LLMOps & AIOps Bootcamp
+
+<a href="https://www.udemy.com/course/llmops-and-aiops-bootcamp-with-9-end-to-end-projects/"><img src="assets/courses/llmops.svg" width="100%" alt="LLMOps And AIOps Bootcamp With 8 End To End Projects"/></a>
+
+**[LLMOps And AIOps Bootcamp With 8 End To End Projects ↗](https://www.udemy.com/course/llmops-and-aiops-bootcamp-with-9-end-to-end-projects/)**
+
+An end-to-end, project-driven journey through **LLM applications, CI/CD, Docker, Kubernetes, cloud deployment, monitoring, and production workflows**.
+
+### 03 — MLOps on GCP
+
+<a href="https://www.udemy.com/course/mastering-advanced-mlops-on-gcp-cicd-kubernetes-kubeflow/"><img src="assets/courses/mlops.svg" width="100%" alt="Beginner to Advanced MLOps on GCP — CI/CD, Kubernetes, Jenkins"/></a>
+
+**[Beginner to Advanced MLOps on GCP — CI/CD, Kubernetes, Jenkins ↗](https://www.udemy.com/course/mastering-advanced-mlops-on-gcp-cicd-kubernetes-kubeflow/)**
+
+From development to deployment: **ML pipelines, Jenkins, GitLab CI, Kubernetes, Kubeflow, Google Cloud, and monitoring**.
+
+<div align="center">
+
+<br/>
+
+<a href="https://www.udemy.com/user/sudhanshu-gusain-3/"><img src="https://img.shields.io/badge/↗_EXPLORE_ALL_MY_UDEMY_COURSES-141E30?style=for-the-badge&labelColor=6EE7DB" alt="Browse all of my Udemy courses"/></a>
+
 </div>
 
 ---
 
-### `03 / PROJECT SPOTLIGHT`
+## `03 / THE CREATOR — DATA GURU`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
+<h3>🎥 Making deep tech easier to learn.</h3>
 
-#### [🤖 Multi-AI-Agent Projects](https://github.com/data-guru0/MULTI-AI-AGENT-PROJECTS)
+<p>Outside structured courses, I share engineering concepts, hands-on experiments, and longer technical walkthroughs on <b>YouTube</b>.</p>
 
-**AGENTIC AI / PUBLIC CODE**
+<p>Through <b>Data Guru</b>, I've focused on making data science, machine learning, and AI more approachable — including practical Hindi-language learning.</p>
 
-Practical experiments and projects exploring multi-agent workflows and orchestration.
+<p>My interests have grown from data science and ML to <b>production AI systems, DevOps, agent infrastructure, and governance</b>. The curiosity is the same: learn it deeply enough that I can explain it clearly.</p>
 
-<a href="https://github.com/data-guru0/MULTI-AI-AGENT-PROJECTS"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-↗-68E8E1?style=flat-square&labelColor=0B1020"/></a>
-
+<a href="https://www.youtube.com/channel/UCYJJtmZyW_zP_3hfCMp-EsQ"><b>Watch my YouTube channel →</b></a>
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top" align="center">
 
-#### [🔍 GitHub PR Code AI Reviewer](https://github.com/data-guru0/GitHub-PR-Code-AI-Reviewer)
-
-**AI DEVELOPER TOOLS / PUBLIC CODE**
-
-AI-assisted pull-request review engineering.
-
-<a href="https://github.com/data-guru0/GitHub-PR-Code-AI-Reviewer"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-↗-68E8E1?style=flat-square&labelColor=0B1020"/></a>
+<pre>LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+UNDERSTAND
+  ↓
+TEACH
+  ↻</pre>
+<sub>My favorite feedback loop.</sub>
 
 </td>
 </tr>
+</table>
+
+---
+
+## `04 / WHAT I'M EXPLORING RIGHT NOW`
+
+<table>
 <tr>
-<td valign="top">
+<td width="33%" valign="top">
 
-#### [🎌 Anime Recommender · LLMOps](https://github.com/data-guru0/ANIME-RECOMMENDER-SYSTEM-LLMOPS)
+### 🧠 Intelligent systems
 
-**RECOMMENDATIONS / PUBLIC CODE**
+**Agentic AI · LLMOps · RAG**
 
-Recommendation-system engineering with an LLMOps focus.
-
-<a href="https://github.com/data-guru0/ANIME-RECOMMENDER-SYSTEM-LLMOPS"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-↗-68E8E1?style=flat-square&labelColor=0B1020"/></a>
+Building AI applications with multiple tools, models, and agents — with the practical engineering needed to make them useful.
 
 </td>
-<td valign="top">
+<td width="33%" valign="top">
 
-#### [🛍️ Flipkart Product Recommender](https://github.com/data-guru0/FLIPKART-PRODUCT-RECOMMENDER-SYSTEM)
+### 🛡️ Responsible systems
 
-**RECOMMENDER SYSTEMS / PUBLIC CODE**
+**AI Governance · Security · Evals**
 
-Product-recommendation project in an e-commerce setting.
+Thinking about who can access what, how policies are enforced, how data is protected, and how AI systems are evaluated.
 
-<a href="https://github.com/data-guru0/FLIPKART-PRODUCT-RECOMMENDER-SYSTEM"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-↗-68E8E1?style=flat-square&labelColor=0B1020"/></a>
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Reliable systems
+
+**MLOps · Cloud · Platform**
+
+Designing repeatable build, deployment, monitoring, and operations workflows for AI workloads.
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>▸ OPEN THE ARCHITECTURE LAB — selected system designs</b></summary>
+<summary><b>🧰 Open my engineering toolbox</b></summary>
 
 <br/>
 
-| Architecture | What it explores |
-|:--|:--|
-| **Custodian** | Five-layer governance for bank accounts-payable AI agents |
-| **Nexa Gateway** | Unified LLM API, smart routing, provider registry, traces and feedback |
-| **ReturnGuard** | Retail returns agents, policy enforcement, audit and human oversight |
-| **NexaBank Fraud Copilot** | Identity propagation, ReBAC, separation of duties and confused-deputy prevention |
+| What I work on | Technologies and concepts |
+| :-- | :-- |
+| **AI engineering** | Python, FastAPI, LangGraph, RAG, MCP, vector search |
+| **AI governance and security** | Keycloak, SPIFFE/SPIRE, OpenFGA, OPA, Vault, Presidio |
+| **MLOps and LLMOps** | MLflow, model evaluation, CI/CD, LLM gateways, observability |
+| **Cloud and platform** | Docker, Kubernetes, Jenkins, Argo CD, Terraform, AWS, GCP |
+| **Data and backend** | PostgreSQL, Redis, Qdrant, Go |
+| **Monitoring** | Prometheus, Grafana, ELK, Langfuse |
 
-<sub>Architecture and teaching case studies; no public source-code claim is made for these systems.</sub>
+<sub>These represent technologies and areas I work with or teach, not an exhaustive expertise ranking.</sub>
 
 </details>
 
 ---
 
-### `04 / THE STACK — SELECTED FOR THE PROBLEM`
+## `05 / A LITTLE OF MY CODE`
 
-<table>
-<tr><td><b>⚡ AI & Agents</b></td><td>LangGraph · RAG · MCP · DeepEval · MLflow · LLM gateways</td></tr>
-<tr><td><b>🔐 Trust & Governance</b></td><td>Keycloak · SPIFFE/SPIRE · OpenFGA · OPA · Vault · Presidio</td></tr>
-<tr><td><b>☁️ Platform Engineering</b></td><td>Docker · Kubernetes · Terraform · Jenkins · Argo CD · AWS</td></tr>
-<tr><td><b>🧩 Backend & Data</b></td><td>Python · FastAPI · Go · PostgreSQL · Redis · Qdrant</td></tr>
-<tr><td><b>📡 Observability</b></td><td>Langfuse · ELK · Prometheus · Grafana</td></tr>
-</table>
+My GitHub is where I share practical course examples, experiments, and engineering projects. If you'd like to see implementation rather than just hear me talk about it:
+
+- 🤖 **[Multi-AI-Agent Projects](https://github.com/data-guru0/MULTI-AI-AGENT-PROJECTS)** — exploring AI agent workflows.
+- 🔍 **[GitHub PR Code AI Reviewer](https://github.com/data-guru0/GitHub-PR-Code-AI-Reviewer)** — AI-assisted developer workflows.
+- 🎌 **[Anime Recommender / LLMOps](https://github.com/data-guru0/ANIME-RECOMMENDER-SYSTEM-LLMOPS)** — a project from the recommendation-systems and LLMOps world.
+
+**[→ Browse all my repositories](https://github.com/data-guru0?tab=repositories)**
 
 <details>
-<summary><b>▸ OPEN THE TERMINAL — how I think about production AI</b></summary>
+<summary><b>📊 Curious about my GitHub activity?</b></summary>
 
-```text
-$ cat engineering-principles.yaml
-
-identity:       verify humans AND workloads
-authorization:  check every sensitive action
-policy:         enforce guardrails at runtime
-data:           know provenance and protect privacy
-models:         evaluate before and after release
-operations:     instrument, monitor, and recover
-delivery:       automate the path to production
-
-$ echo "Build. Govern. Ship."
-Build. Govern. Ship.
-```
+<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=data-guru0&show_icons=true&hide_border=true&bg_color=0D1725&title_color=75E8DB&text_color=BCD1DA&icon_color=EBC6A4" alt="GitHub statistics" />
+<br/>
+<sub>Third-party statistics may be cached or temporarily unavailable.</sub>
+</div>
 
 </details>
 
 ---
 
-### `05 / SIGNALS FROM GITHUB`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=data-guru0&show_icons=true&hide_border=true&bg_color=0B1020&title_color=68E8E1&text_color=C4D5E6&icon_color=B8F76E" height="170" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-guru0&layout=compact&hide_border=true&bg_color=0B1020&title_color=68E8E1&text_color=C4D5E6" height="170" alt="Top languages"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=data-guru0&bg_color=0b1020&color=68e8e1&line=b8f76e&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution activity"/>
-<br/>
-<sub>Live third-party widgets may be temporarily unavailable or cached.</sub>
-</div>
-
----
-
-### `06 / BUILD IN PUBLIC. TEACH IN PUBLIC.`
+## `06 / THE PART THAT MATTERS MOST`
 
 <div align="center">
 
-**Complex systems deserve clear explanations.**
+### "I don't want people to just copy commands.
+### I want them to understand why those commands exist."
 
-Through my AI engineering projects, educational content and architecture walkthroughs, I explore what it actually takes to make AI systems dependable.
+I believe **good engineering and good teaching have a lot in common**: both require clarity, curiosity, patience, and attention to the details that everyone else skips.
 
-<a href="https://github.com/data-guru0?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-↗-B8F76E?style=for-the-badge&labelColor=0B1020"/></a>
-<a href="https://www.linkedin.com/in/sudhanshu-gusain976/"><img src="https://img.shields.io/badge/LET'S_CONNECT-↗-68E8E1?style=for-the-badge&labelColor=0B1020"/></a>
+Whether you're here to explore my code, learn from a course, collaborate, or simply say hello — welcome!
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sudhanshu-gusain976/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-↗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/></a>
+<a href="https://www.udemy.com/user/sudhanshu-gusain-3/"><img src="https://img.shields.io/badge/LEARN_WITH_ME_ON_UDEMY-↗-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=111827" alt="Udemy"/></a>
 
 <br/><br/>
 
-`> engineering intelligence. governing autonomy.`
+<sub>MADE WITH CURIOSITY · BUILT WITH INTENTION · SHARED WITH THE WORLD</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:17445B&height=110&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1725,100:246B70&height=95&section=footer" width="100%" alt="Decorative footer wave"/>
 
 </div>
