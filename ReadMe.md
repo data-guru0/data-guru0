@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://www.udemy.com/user/sudhanshu-gusain-3/"><img src="https://img.shields.io/badge/UDEMY-EXPLORE_MY_COURSES-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=111827" alt="My Udemy courses" /></a>
-<a href="https://www.linkedin.com/in/sudhanshu-gusain976/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="Connect on LinkedIn" /></a>
-<a href="https://www.youtube.com/channel/UCYJJtmZyW_zP_3hfCMp-EsQ"><img src="https://img.shields.io/badge/YOUTUBE-WATCH_%26_LEARN-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=111827" alt="My YouTube channel" /></a>
+<a href="https://www.udemy.com/user/sudhanshu-gusain-3/" title="Explore my Udemy courses"><img src="assets/links/udemy.svg" width="31%" alt="Udemy courses — practical courses and bootcamps" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sudhanshu-gusain976/" title="Connect on LinkedIn"><img src="assets/links/linkedin.svg" width="31%" alt="Let's connect on LinkedIn" /></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCYJJtmZyW_zP_3hfCMp-EsQ" title="Watch my YouTube videos"><img src="assets/links/youtube.svg" width="31%" alt="YouTube — tutorials and deep dives" /></a>
 
 <br/><br/>
 
@@ -229,8 +229,8 @@ Whether you're here to explore my code, learn from a course, collaborate, or sim
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sudhanshu-gusain976/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-↗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn"/></a>
-<a href="https://www.udemy.com/user/sudhanshu-gusain-3/"><img src="https://img.shields.io/badge/LEARN_WITH_ME_ON_UDEMY-↗-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=111827" alt="Udemy"/></a>
+<a href="https://www.linkedin.com/in/sudhanshu-gusain976/" title="Connect with me on LinkedIn"><img src="assets/links/linkedin.svg" width="38%" alt="Connect on LinkedIn" /></a>&nbsp;
+<a href="https://www.udemy.com/user/sudhanshu-gusain-3/" title="Explore my teaching on Udemy"><img src="assets/links/udemy.svg" width="38%" alt="Explore my Udemy courses" /></a>
 
 <br/><br/>
 
